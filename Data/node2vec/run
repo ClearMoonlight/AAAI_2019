@@ -1,0 +1,3 @@
+/home/yemingqu/Manni/snap/examples/node2vec/node2vec -i:/home/yemingqu/Manni/snap/examples/node2vec/graph/IsoBase/ce.txt -o:/home/yemingqu/Manni/snap/examples/node2vec/emb/A.txt -l:3 -d:24 -p:0.3 -dr -w -v
+
+node2vec -i:./IsoBaseWt/ce.txt -o:./emb/ce.txt -l:3 -d:100 -p:0.3 -w -v
